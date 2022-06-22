@@ -2,6 +2,8 @@ paper :[TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Tra
 
 
 related works
+
+
 2. They first find a hard association between LiDAR points and image pixels based on calibration matrices, and then augment LiDAR
 features with the segmentation scores
 
